@@ -1,0 +1,8 @@
+prefix=/home/james/Documents/auvic/code/devel
+
+Name: manager_nodes
+Description: Description of manager_nodes
+Version: 0.0.0
+Cflags: -I/home/james/Documents/auvic/code/src/manager_nodes/include
+Libs: -L/home/james/Documents/auvic/code/devel/lib -lmanager_nodes
+Requires: roscpp rospy std_msgs

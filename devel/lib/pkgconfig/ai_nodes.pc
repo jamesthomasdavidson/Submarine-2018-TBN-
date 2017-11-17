@@ -1,0 +1,8 @@
+prefix=/home/james/Documents/auvic/code/devel
+
+Name: ai_nodes
+Description: Description of ai_nodes
+Version: 0.0.0
+Cflags: -I/home/james/Documents/auvic/code/src/ai_nodes/include
+Libs: -L/home/james/Documents/auvic/code/devel/lib -lai_nodes
+Requires: roscpp rospy std_msgs
